@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm a Computer Engineering student who is passionate about writing code, solving problems, and building software. I enjoy solving low-level and high-level problems alike, exploring the intersection of computer architecture, algorithms, and software design.
+I'm a Computer Science & Engineering student who is passionate about writing code, solving problems, and building software. I enjoy solving low-level and high-level problems alike, exploring the intersection of computer architecture, algorithms, and software design.
 
 - 🔭 Third year Computer Engineering student at University Politehnica of Bucharest
 - 🧑🏻‍🎓 Currently on an Erasmus scholarship in Madrid, at Universidad Politécnica de Madrid
