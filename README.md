@@ -11,6 +11,7 @@ I'm a Computer Engineering student who is passionate about writing code, solving
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-simion-9a4b1b2b7/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mar2005simion@gmail.com)
 
+
 ---
 ## Featured projects
 
