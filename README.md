@@ -4,7 +4,7 @@
 
 I'm a Computer Science & Engineering student who is passionate about writing code, solving problems, and building software. I enjoy solving low-level and high-level problems alike, exploring the intersection of computer architecture, algorithms, and software design.
 
-- 🔭 Third year Computer Engineering student at University Politehnica of Bucharest
+- 🔭 Third year Computer Science & Engineering student at University Politehnica of Bucharest
 - 🧑🏻‍🎓 Currently on an Erasmus scholarship in Madrid, at Universidad Politécnica de Madrid
 - ⚙️ Hardworking, motivated, and always ready to take on new challenges that help me grow both technically and personally. 
 - 📫 Let's connect! 
