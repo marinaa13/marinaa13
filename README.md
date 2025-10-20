@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+I'm a Computer Engineering student who is passionate about writing code, solving problems, and building software. I enjoy solving low-level and high-level problems alike, exploring the intersection of computer architecture, algorithms, and software design.
 
-- 🔭 I’m a third year Computer Engineering student at University Politehnica of Bucharest.
-- 🧑🏻‍🎓 I’m currently on a Erasmus scholarship in Madrid.
-- 👯 I’m looking for a software development internship. 
-- 📫 Let's connect! 📫 Let's connect:  
+- 🔭 Third year Computer Engineering student at University Politehnica of Bucharest
+- 🧑🏻‍🎓 Currently on an Erasmus scholarship in Madrid, at Universidad Politécnica de Madrid
+- ⚙️ Hardworking, motivated, and always ready to take on new challenges that help me grow both technically and personally. 
+- 📫 Let's connect! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-simion-9a4b1b2b7/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mar2005simion@gmail.com)
 
